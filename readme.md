@@ -30,17 +30,12 @@ Working:
 }
 Token obtained in response should be used in Headers of other requests as (Authorization : Bearer xxxxxxx)
 
- 4) Users can use http://localhost:4000/edit-user to edit their details, (Only task remainnig is authorizing user to edit only his own details, I tried to make it work but it has a bit of issue)
+ 4) Users can use http://localhost:4000/edit-user to edit their details, 
     body:
     {
-    "userId":"6210a471900f00f39612665d", required
     "FullName":"HelloWorld" //updated Data here
 }
 
+5) Users can use http://localhost:4000/get-user/
+
 There are some extra Routes to get a specific user info or delete a user
-
-
-
-Name: Noman Anjum
-Email: nomananjum420@gmail.com
-JobPosition: Backend Engineer
