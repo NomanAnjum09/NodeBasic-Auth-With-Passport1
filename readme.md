@@ -1,13 +1,14 @@
 
-Some DEPENDECIES:
+##  Program uses passport.js for authentication and authorization
 
-Run command "npm install" to install saved dependancies
+### Some DEPENDECIES:
 
-Install Application Dependencies with command "npm install"
+#### Run command "npm install" to install saved dependancies
 
-Working:
+### Install Application Dependencies with command "npm install"
 
- Program uses passport.js for authentication and authorization
+## Working:
+
  1)User can register himself using http://localhost:4000/add-user
     Body:{
     "FullName":"Hello",
