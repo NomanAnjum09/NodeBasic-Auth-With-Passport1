@@ -1,0 +1,9 @@
+{
+    "env": {
+        "MONGO_USER": "nomananjum420420",
+        "MONGO_PASSWORD": "420420",
+        "MONGO_DB": "myFirstDatabase",
+        "ConnectionString":"mongodb+srv://nomananjum420420:420420@cluster0.db26b.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+        "JWTSECRET":"GDHHRX-ADDDSSSSSDD"
+    }
+}
